@@ -42,13 +42,13 @@ The application logic is written in Python & Django. The LIBVIRT Python bindings
 Installation (Only web panel)
 -----------------------------
 
-`Install WebVirtMgr <https://github.com/retspen/webvirtmgr/wiki/Install-WebVirtMgr>`_
+`Install WebVirtMgr <https://github.com/AysadKozanoglu/webvirtmgr>`_
 
 
 Setup host server (Server for VM's)
 -----------------------------------
 
-`Setup Host Server <https://github.com/retspen/webvirtmgr/wiki/Setup-Host-Server>`_
+`Setup Host Server <https://github.com/AysadKozanoglu/webvirtmgr/wiki/Setup-Host-Server>`_
 
 License
 *******
