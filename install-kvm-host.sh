@@ -8,7 +8,8 @@
 #   DESCRIPTION: Bootstrap webvirtmgr installation for various distributions
 #
 #
-#     COPYRIGHT: (c) 2013 by the WebVirtMgr Team
+#           COPYRIGHT: (c) 2013 by the WebVirtMgr Team
+#  script extended by: Aysad Kozanoglu
 #
 #       LICENSE: Apache 2.0
 #  ORGANIZATION: WebVirtMgr (webvirtmgr.net)
