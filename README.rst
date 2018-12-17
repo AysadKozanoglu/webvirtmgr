@@ -48,7 +48,7 @@ Installation (Only web panel)
 Setup host server (Server for VM's)
 -----------------------------------
 
-`Setup Host Server <https://github.com/AysadKozanoglu/webvirtmgr/wiki/Setup-Host-Server>`_
+`Setup KVM Host Server <https://github.com/AysadKozanoglu/webvirtmgr/wiki/Setup-Host-Server>`_
 
 License
 *******
