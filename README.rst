@@ -8,7 +8,7 @@ https://github.com/AysadKozanoglu/webvirtmgr/wiki/screenshots
 
 Youtube  Demo
 
-https://youtu.be/u-Ll9SFgRb4
+https://www.youtube.com/watch?v=8IuuAt57oQE
 
 
 =========================
